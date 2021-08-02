@@ -2,8 +2,9 @@
 
 - 🔭 Current  Work: Back-end Developer
 - 👨‍🎓 Studying: Mechatronics Engineering
-- 🌱 Learning:  NodeJs, Django
 - 💻 Back-end Framework: SpringBoot
+- 🌱 Learning:  NodeJs, Django
+
 
 <div>
   <a href="https://github.com/Matheus729">
